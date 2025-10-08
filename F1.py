@@ -1,9 +1,4 @@
-print("youssef")
 
-
-x = 1
-y = 2
-print(x*y)
 
 unique_nums={ 1,2,2,3,4}
 print(unique_nums)
